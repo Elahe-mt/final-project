@@ -1,0 +1,2 @@
+
+fd01b59482e8cfdf2c5bd9c1540eaa86dab6ee55	{"key":"make-fetch-happen:request-cache:https://mirror2.chabokan.net/npm/object-assign","integrity":"sha512-LVTaYPLl7VkQygEmzodXt4Y+Dq4l7eTE5uPPnRQkqY5PqWtwcIg+PswQNJ6sf7QHbp2dPVPWQgK8iOAm8MLsfw==","time":1782031780506,"size":30822,"metadata":{"time":1782031780468,"url":"https://mirror2.chabokan.net/npm/object-assign","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"application/json","date":"Sun, 21 Jun 2026 08:49:39 GMT","vary":"origin"},"options":{"compress":true}}}
