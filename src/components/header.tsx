@@ -91,7 +91,7 @@ const [isBasketOpen, setIsBasketOpen] = useState(false);
     </header>
 
       <Modal isOpen={isBasketOpen} onClose={() => setIsBasketOpen(false)}>
-        <BasketPage  onClose={() => setIsBasketOpen(false)} />
+        <BasketPage />
       </Modal>
    </>
   );

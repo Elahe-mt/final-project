@@ -17,7 +17,9 @@ const AsideModal = ({ product, isOpen, onClose, stars }: CartModalProps) => {
   };
 
   const decreaseQuantity = () => {
-    setQuantity((prevQuantity) => Math.max(1, prevQuantity - 1));
+    if(quantity>1){
+      setQuantity(quantity-1)
+    }
   };
 
   if (!isOpen) return null;
